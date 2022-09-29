@@ -9,3 +9,5 @@ Develop a web application that retrieves data from a web service, parses the dat
 - Well formatted pages
 - Useful data display (charts are recommended but not required)
 - User interaction (buttons or other user input)
+![image](https://user-images.githubusercontent.com/35506354/193103635-24d0fe30-d32f-45a3-a426-ae3a5b7dd971.png)
+![image](https://user-images.githubusercontent.com/35506354/193103886-2ff0a147-187b-49f4-8f5c-f54cb56b26ec.png)
